@@ -1,5 +1,5 @@
 # TrCLIP-VAD
-# :calendar TODO
+# :calendar: TODO
 
 During the submission phase, we have disclosed partial core algorithms of training and testing (trainText.zip and testText.zip) were automatically generated.
 
