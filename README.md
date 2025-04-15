@@ -21,3 +21,11 @@ Welcome to watch :eyes: this repository for the latest updates.
 - TrCLIP-VAD achieves state-of-the-art (SOTA) performance on two widely-used datasets. Specifically, it achieves 86.49\% AP scores and 88.90\% AUC scores on the XD-Violence and UCF-Crime dataset, outperforming all compared methods in the experiments.
 
 ## Training
+### Setup
+We extract visual features and caption features for UCF-Crime and XD-Violence datasets, and release these features and pretrained models as follows:
+
+| Benchmark | Visual[Baidu]                                                      | Caption[Baidu]                                                     | Model[Baidu]                                                        |
+|-----------|--------------------------------------------------------------------|--------------------------------------------------------------------|---------------------------------------------------------------------|
+| UCF-Crime   | [Code: ig87](https://pan.baidu.com/s/1ePlSWCi63H-hwBwhJyLrcw?pwd=ig87) | [Code: jdi4](https://pan.baidu.com/s/12lgYfTGDhwIYJ2ykQRqsJA?pwd=jdi4) | [Code: vi75](https://pan.baidu.com/s/1uoWN0YooEZ7WckW7Si_asQ?pwd=vi75) | 
+| XD-Violence | [Code: uy8p](https://pan.baidu.com/s/1za6ST_SDBkQ7ELJGupRpqg?pwd=uy8p) | [Code: pgtq](https://pan.baidu.com/s/1uTnQK322ikX_6ooZEKTN3Q?pwd=pgtq) | [Code: 75m7](https://pan.baidu.com/s/1FdLgvJVJ0RCXpN18Yx6K6g?pwd=75m7)       |
+or generate the source_caption features using this [repo](https://github.com/coranholmes/SwinBERT) and then rewrite these captions using the [repo](https://github.com/LijieFan/LaCLIP).
