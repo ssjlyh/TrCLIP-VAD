@@ -1,5 +1,6 @@
 # TrCLIP-VAD: Weak supervised video anomaly detection by improving CLIP training with text rewriting
 # :rocket: Motivation
+![alt text](/data/frame.png "Image Title")
 
 # :calendar: TODO
 
