@@ -1,5 +1,5 @@
 # TrCLIP-VAD: Weak supervised video anomaly detection by improving CLIP training with text rewriting
-# Motivation
+# :rocket: Motivation
 
 # :calendar: TODO
 
