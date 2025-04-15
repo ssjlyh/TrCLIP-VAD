@@ -1,8 +1,8 @@
 # TrCLIP-VAD: Weak supervised video anomaly detection by improving CLIP training with text rewriting
-# Overview
+## Overview
 ![alt text](https://github.com/ssjlyh/TrCLIP-VAD/blob/main/data/framework.png)
 The overview of the proposed TrCLIP-VAD. It consists of several components, i.e. visual branch, text branch, C-branch (coarse-grained branch) and F-branch (fine-grained branch).
-# :calendar: TODO
+## :calendar: TODO
 
 During the submission phase, we have disclosed partial core algorithms of training and testing (trainText.zip and testText.zip) were automatically generated.
 
@@ -12,10 +12,12 @@ Welcome to watch :eyes: this repository for the latest updates.
 - [x] [2025.4.20]: We have released the core code for part of the model.
 - [ ] The complete model code.
 - [ ] Training and inference code released.
-# Highlight
+## Highlight
 
 - We propose a novel TrCLIP-VAD framework, which enhances textual feature diversity through text rewriting strategy. As far as we know, TrCLIP-VAD is the first work to introduce an image-text dual feature enhancement approach to WSVAD.
 
 - We design an LGM-Mamba module that innovatively integrates the abilities of local perception, global modeling and multi-scale analysis, enabling efficient and comprehensive temporal feature learning for VAD.
 
 - TrCLIP-VAD achieves state-of-the-art (SOTA) performance on two widely-used datasets. Specifically, it achieves 86.49\% AP scores and 88.90\% AUC scores on the XD-Violence and UCF-Crime dataset, outperforming all compared methods in the experiments.
+
+## Training
