@@ -1,4 +1,6 @@
-# TrCLIP-VAD
+# TrCLIP-VAD: Weak supervised video anomaly detection by improving CLIP training with text rewriting
+# Motivation
+
 # :calendar: TODO
 
 During the submission phase, we have disclosed partial core algorithms of training and testing (trainText.zip and testText.zip) were automatically generated.
@@ -9,3 +11,4 @@ Welcome to watch :eyes: this repository for the latest updates.
 - [x] [2025.4.20]: We have released the core code for part of the model.
 - [ ] The complete model code.
 - [ ] Training and inference code released.
+
