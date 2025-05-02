@@ -33,7 +33,7 @@ or generate the source_caption features using this [repo](https://github.com/cor
 The following files need to be adapted in order to run the code on your own machine:
 - Change the file paths to the download datasets above in `list/xd_CLIP_rgb.csv` , `list/xd_CLIP_rgbtest.csv` , `list/ucf_CLIP_rgb.csv` and `list/ucf_CLIP_rgbtest.csv`. 
 - Change the file paths to the download datasets above in `list/xd_text.csv` , `list/xd_text_test.csv` , `list/ucf_text.csv` and `list/ucf_text_test.csv`. 
-- Feel free to change the hyperparameters in `xd_option.py`
+- Feel free to change the hyperparameters in `xd_option.py` and `ucf_option.py`.
 ### Train and Test
 After the setup, simply run the following command: 
 
